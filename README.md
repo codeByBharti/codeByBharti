@@ -4,34 +4,48 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharti%20Ambule&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%7C%20MERN%20Developer%20%7C%20AI%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- ⌨️ Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Bharti+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%A1;MERN+Stack+Engineer+%F0%9F%9B%A0%EF%B8%8F;AI+%26+SaaS+Builder+%F0%9F%A4%96;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=Bharti%20Ambule&fontSize=70&fontColor=ffffff&fontAlignY=42&stroke=6C63FF&strokeWidth=2&desc=✦%20Full%20Stack%20Developer%20✦%20MERN%20Engineer%20✦%20AI%20Builder%20✦&descAlignY=64&descSize=16&animation=scaleIn" width="100%"/>
 
 <br/>
 
-<!-- 🔥 Tagline -->
-<p>
-  <img src="https://img.shields.io/badge/Building%20scalable%20products%20that%20solve%20real%20problems-%236C63FF?style=for-the-badge&labelColor=0d1117&color=6C63FF&logo=lightning&logoColor=white"/>
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=55&lines=⚡+Full+Stack+Developer+%7C+MERN+Expert;🤖+AI+%26+SaaS+Product+Builder;🚀+500%2B+Users+Served+in+Production;🔐+Real-Time+Systems+%26+Auth+Specialist;🌟+Open+to+Exciting+Opportunities!" alt="Typing SVG" />
 
-<!-- 🌐 Social Links -->
-<p>
-  <a href="mailto:codeByBharti156@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-codeByBharti156-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/codeByBharti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bharti%20Ambule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/codeByBharti" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-codeByBharti-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=6C63FF"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117"/>
-</p>
+<br/><br/>
+
+<!-- Status Pills -->
+<img src="https://img.shields.io/badge/🟢%20Available%20for%20Work-Actively%20Looking-22c55e?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍%20Pune-Maharashtra%2C%20India-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎓%20B.E.%20Computer%20Engg-2023--2027-A78BFA?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<!-- Social Links -->
+<a href="mailto:bhartiambule156@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-bhartiambule156-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bharti-ambule-8b5436359" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Bharti%20Ambule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/codeByBharti" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-codeByBharti-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+<!-- Quick Stats Row -->
+<table>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/500%2B-Active%20Users%20Served-6C63FF?style=for-the-badge&labelColor=0d1117"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/3%2B-Production%20Apps-A78BFA?style=for-the-badge&labelColor=0d1117"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/2-Internships-FF6B6B?style=for-the-badge&labelColor=0d1117"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/1-IEEE%20Publication-FFD700?style=for-the-badge&labelColor=0d1117"/></td>
+</tr>
+</table>
 
 <br/>
 
@@ -43,21 +57,57 @@
 <!--                      ABOUT ME SECTION                         -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/──────────────────────────%20ABOUT%20ME%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28"/> Who Am I?
+## 👩‍💻 &nbsp;About Me
 
-```ts
-const bharti: Developer = {
-  name       : "Bharti Shamlal Ambule",
-  role       : ["Full Stack Developer", "MERN Stack Developer", "AI Integrator"],
-  location   : "Pune, Maharashtra 🇮🇳",
-  education  : "B.E. Computer Engineering @ Ajeenkya DY Patil (2023–2027)",
-  focus      : ["SaaS Products", "Real-Time Systems", "AI/ML Integration"],
-  deployed   : "500+ active users served in production",
-  superpower : "Turning complex problems into clean, scalable code ⚡",
-};
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🙋‍♀️ Bharti Shamlal Ambule
+
+> *"I don't just write code — I build products that live in production, serve real users, and solve real problems."*
+
+<br/>
+
+🔭 &nbsp;Currently building **AI-powered SaaS** products  
+🌱 &nbsp;Deepening expertise in **System Design & DSA**  
+💬 &nbsp;Talk to me about **MERN, TypeScript, AI APIs, Real-Time Systems**  
+🏆 &nbsp;**500+ active users** served across production apps  
+📄 &nbsp;**IEEE AIC 2025** published researcher  
+🥇 &nbsp;**1st Place** at Mindspark Project Expo  
+⚡ &nbsp;Fun fact: I turn caffeine into production-grade code  
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/🎯%20Focus%20Areas-%20-0d1117?style=for-the-badge&labelColor=6C63FF&color=0d1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡%20SaaS%20Products-Full%20Stack%20Dev-6C63FF?style=flat-square&labelColor=1a1a2e" width="200"/>
+<br/>
+<img src="https://img.shields.io/badge/🔌%20Real--Time%20Systems-Socket.IO%20%7C%20WebSockets-A78BFA?style=flat-square&labelColor=1a1a2e" width="200"/>
+<br/>
+<img src="https://img.shields.io/badge/🤖%20AI%20Integration-Gemini%20%7C%20OpenAI-FF6B6B?style=flat-square&labelColor=1a1a2e" width="200"/>
+<br/>
+<img src="https://img.shields.io/badge/🔐%20Auth%20%26%20Security-JWT%20%7C%20RBAC%20%7C%20OAuth-FFD700?style=flat-square&labelColor=1a1a2e" width="200"/>
+<br/>
+<img src="https://img.shields.io/badge/🚀%20CI%2FCD%20Deploy-Vercel%20%7C%20Render-22c55e?style=flat-square&labelColor=1a1a2e" width="200"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍%20Pune%2C%20India-🇮🇳-white?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🎓%20BE%20Comp%20Engg-2023--2027-A78BFA?style=flat-square&labelColor=0d1117"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -163,117 +213,147 @@ const bharti: Developer = {
 <!--                     TOP 3 PROJECTS                            -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/──────────────────────────%20FEATURED%20PROJECTS%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-### 🏆 Top Projects
+## 🚀 &nbsp;Featured Projects
 
-<br/>
-
-<!-- Project 1 -->
-<table>
-<tr>
-<td width="100%">
-
-### 🤖 [ResumeAI — AI-Powered Resume Generator (SaaS)](https://github.com/codeByBharti)
-
-> *Generate ATS-optimized resumes in seconds using AI — a fully deployed SaaS product*
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jsPDF-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
-</p>
-
-✅ **AI resume generation** with Gemini API + robust fallback handling for zero downtime  
-✅ **Supabase Auth** + PostgreSQL with Row-Level Security for complete multi-tenant data isolation  
-✅ **PDF export** end-to-end using `html2canvas` + `jsPDF` with premium feature gating  
-✅ **Upgrade flow** with generation limits, session management & CI/CD on Vercel  
-
-<p>
-  <a href="https://resume-ai-nu-two.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge"/></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
-</p>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=30&lines=Real+products.+Real+users.+Real+impact.+🔥" />
+</div>
 
 <br/>
 
-<!-- Project 2 -->
-<table>
-<tr>
-<td width="100%">
+---
 
-### 🏫 [Coaching Institute Management System](https://github.com/codeByBharti)
+### 🥇 &nbsp;ResumeAI — AI-Powered Resume Generator
 
-> *Production-grade platform managing 500+ student records with multi-role access control*
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+| | |
+|:---|:---|
+| **🎯 What it does** | Full-stack AI SaaS that generates ATS-optimized resumes using Gemini API with premium gating & PDF export |
+| **👥 Impact** | Live production app with secure multi-tenant architecture & zero-downtime CI/CD |
+| **🔑 Key Highlight** | RLS-protected PostgreSQL + Supabase Auth + html2canvas PDF pipeline |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-✅ **500+ student records** managed across attendance, fees & academics with MVC architecture  
-✅ **Multi-role JWT RBAC** — Admin, Teacher, Student, Accountant with encrypted endpoints  
-✅ **Optimized MongoDB schema** with indexing for reduced query latency under concurrent load  
-✅ **Zero-downtime CI/CD** deployment pipeline on Vercel for real-world production reliability  
-
-<p>
-  <a href="https://coaching-instistute.vercel.app/login"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/✅%20AI%20Generation-Gemini%20API%20%2B%20Fallback%20Handling-6C63FF?style=flat-square&labelColor=0d1117"/>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Project 3 -->
-<table>
-<tr>
-<td width="100%">
-
-### 💬 [QuickChat — Real-Time Messaging Platform](https://github.com/codeByBharti)
-
-> *Production-grade real-time chat handling 50+ concurrent users with low-latency WebSockets*
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-</p>
-
-✅ **50+ concurrent users** with Socket.IO WebSockets & optimized connection pooling  
-✅ **Scalable Node.js backend** with JWT auth + instant MongoDB message persistence  
-✅ **Stateful real-time broadcasting** for seamless, zero-lag messaging experience  
-✅ **CI/CD on Render** maintaining stable uptime & consistent performance under load  
-
-<p>
-  <a href="https://chat-app3-0-evg5.vercel.app/login"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/✅%20Auth-Supabase%20%2B%20Row--Level%20Security-A78BFA?style=flat-square&labelColor=0d1117"/>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
+  <img src="https://img.shields.io/badge/✅%20Export-html2canvas%20%2B%20jsPDF-FF6B6B?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/✅%20SaaS-Premium%20Gating%20%2B%20Upgrade%20Flow-FFD700?style=flat-square&labelColor=0d1117"/>
 </p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://resume-ai-nu-two.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20%20Live%20Demo-Visit%20App-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/codeByBharti/Resume-ai">
+    <img src="https://img.shields.io/badge/📂%20%20Source%20Code-View%20on%20GitHub-ffffff?style=for-the-badge&logo=github&labelColor=0d1117"/>
+  </a>
+</p>
+
+---
+
+### 🥈 &nbsp;Coaching Institute Management System
+
+<div align="center">
+
+| | |
+|:---|:---|
+| **🎯 What it does** | Enterprise-grade platform managing 500+ student records for attendance, fees & academics |
+| **👥 Impact** | 500+ active users in production with zero-downtime deployments on Vercel |
+| **🔑 Key Highlight** | 4-role JWT RBAC system — Admin, Teacher, Student, Accountant with encrypted endpoints |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✅%20Scale-500%2B%20Student%20Records-6C63FF?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/✅%20Security-Multi--Role%20RBAC%20%2B%20JWT-A78BFA?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/✅%20DB-MongoDB%20Indexed%20Schema-FF6B6B?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/✅%20Deploy-Zero--Downtime%20CI%2FCD-22c55e?style=flat-square&labelColor=0d1117"/>
+</p>
+
+<p align="center">
+  <a href="https://coaching-instistute.vercel.app/login">
+    <img src="https://img.shields.io/badge/🌐%20%20Live%20Demo-Visit%20App-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/healbharat/coaching_instistute">
+    <img src="https://img.shields.io/badge/📂%20%20Source%20Code-View%20on%20GitHub-ffffff?style=for-the-badge&logo=github&labelColor=0d1117"/>
+  </a>
+</p>
+
+---
+
+### 🥉 &nbsp;QuickChat — Real-Time Messaging Platform
+
+<div align="center">
+
+| | |
+|:---|:---|
+| **🎯 What it does** | Production-grade real-time messaging app with instant delivery & persistent chat history |
+| **👥 Impact** | Handles 50+ concurrent users with low-latency WebSocket connections |
+| **🔑 Key Highlight** | Optimized Socket.IO connection pooling + stateful event broadcasting |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✅%20Real--Time-Socket.IO%20%2B%20WebSockets-6C63FF?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/✅%20Scale-50%2B%20Concurrent%20Users-A78BFA?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/✅%20Persist-MongoDB%20Message%20Storage-FF6B6B?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/✅%20Deploy-CI%2FCD%20on%20Render-22c55e?style=flat-square&labelColor=0d1117"/>
+</p>
+
+<p align="center">
+  <a href="https://chat-app3-0-evg5.vercel.app/login">
+    <img src="https://img.shields.io/badge/🌐%20%20Live%20Demo-Visit%20App-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/codeByBharti/ChatApp3.0">
+    <img src="https://img.shields.io/badge/📂%20%20Source%20Code-View%20on%20GitHub-ffffff?style=for-the-badge&logo=github&labelColor=0d1117"/>
+  </a>
+</p>
 
 <br/>
 
