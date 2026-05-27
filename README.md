@@ -1,22 +1,385 @@
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     HEADER / NAME BANNER                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:6C63FF,100:A78BFA&height=200&section=header&text=Bharti%20Ambule&fontSize=65&fontColor=ffffff&fontAlignY=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Engineer%20%E2%80%A2%20AI%20Builder&descSize=17&descAlignY=72&animation=fadeIn&stroke=6C63FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharti%20Ambule&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%7C%20MERN%20Developer%20%7C%20AI%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- ⌨️ Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Bharti+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%A1;MERN+Stack+Engineer+%F0%9F%9B%A0%EF%B8%8F;AI+%26+SaaS+Builder+%F0%9F%A4%96;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing Animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=⚡+Building+production-grade+web+apps;🤖+AI+%26+SaaS+products+that+scale;🔐+Real-time+systems+%26+secure+backends;🚀+500%2B+users+served+in+production;🌟+Open+to+exciting+opportunities!" alt="typing" />
+<!-- 🔥 Tagline -->
+<p>
+  <img src="https://img.shields.io/badge/Building%20scalable%20products%20that%20solve%20real%20problems-%236C63FF?style=for-the-badge&labelColor=0d1117&color=6C63FF&logo=lightning&logoColor=white"/>
+</p>
+
+<!-- 🌐 Social Links -->
+<p>
+  <a href="mailto:bhartiambule156@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-bhartiambule156-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/bharti-ambule-8b5436359" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bharti%20Ambule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/codeByBharti" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-codeByBharti-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=6C63FF"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117"/>
+</p>
+
+<br/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME SECTION                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/──────────────────────────%20ABOUT%20ME%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28"/> Who Am I?
+
+```ts
+const bharti: Developer = {
+  name       : "Bharti Shamlal Ambule",
+  role       : ["Full Stack Developer", "MERN Stack Developer", "AI Integrator"],
+  location   : "Pune, Maharashtra 🇮🇳",
+  education  : "B.E. Computer Engineering @ Ajeenkya DY Patil (2023–2027)",
+  focus      : ["SaaS Products", "Real-Time Systems", "AI/ML Integration"],
+  deployed   : "500+ active users served in production",
+  superpower : "Turning complex problems into clean, scalable code ⚡",
+};
+```
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK SECTION                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/──────────────────────────%20TECH%20STACK%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+<br/>
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<br/>
+
+### ⚙️ Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<br/>
+
+### 🤖 AI / Auth / DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=auth0&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/RBAC-FF6B6B?style=for-the-badge&logo=shield&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     TOP 3 PROJECTS                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/──────────────────────────%20FEATURED%20PROJECTS%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
+
+### 🏆 Top Projects
+
+<br/>
+
+<!-- Project 1 -->
+<table>
+<tr>
+<td width="100%">
+
+### 🤖 [ResumeAI — AI-Powered Resume Generator (SaaS)](https://github.com/codeByBharti/Resume-ai)
+
+> *Generate ATS-optimized resumes in seconds using AI — a fully deployed SaaS product*
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jsPDF-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
+</p>
+
+✅ **AI resume generation** with Gemini API + robust fallback handling for zero downtime  
+✅ **Supabase Auth** + PostgreSQL with Row-Level Security for complete multi-tenant data isolation  
+✅ **PDF export** end-to-end using `html2canvas` + `jsPDF` with premium feature gating  
+✅ **Upgrade flow** with generation limits, session management & CI/CD on Vercel  
+
+<p>
+  <a href="https://resume-ai-nu-two.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge"/></a>
+  &nbsp;
+  <a href="https://github.com/codeByBharti/Resume-ai"><img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Project 2 -->
+<table>
+<tr>
+<td width="100%">
+
+### 🏫 [Coaching Institute Management System](https://github.com/healbharat/coaching_instistute)
+
+> *Production-grade platform managing 500+ student records with multi-role access control*
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+✅ **500+ student records** managed across attendance, fees & academics with MVC architecture  
+✅ **Multi-role JWT RBAC** — Admin, Teacher, Student, Accountant with encrypted endpoints  
+✅ **Optimized MongoDB schema** with indexing for reduced query latency under concurrent load  
+✅ **Zero-downtime CI/CD** deployment pipeline on Vercel for real-world production reliability  
+
+<p>
+  <a href="https://coaching-instistute.vercel.app/login"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge"/></a>
+  &nbsp;
+  <a href="https://github.com/healbharat/coaching_instistute"><img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Project 3 -->
+<table>
+<tr>
+<td width="100%">
+
+### 💬 [QuickChat — Real-Time Messaging Platform](https://github.com/codeByBharti/ChatApp3.0)
+
+> *Production-grade real-time chat handling 50+ concurrent users with low-latency WebSockets*
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+</p>
+
+✅ **50+ concurrent users** with Socket.IO WebSockets & optimized connection pooling  
+✅ **Scalable Node.js backend** with JWT auth + instant MongoDB message persistence  
+✅ **Stateful real-time broadcasting** for seamless, zero-lag messaging experience  
+✅ **CI/CD on Render** maintaining stable uptime & consistent performance under load  
+
+<p>
+  <a href="https://chat-app3-0-evg5.vercel.app/login"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge"/></a>
+  &nbsp;
+  <a href="https://github.com/codeByBharti/ChatApp3.0"><img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   EXPERIENCE SECTION                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/──────────────────────────%20EXPERIENCE%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
+
+### 💼 Work Experience
+
+<table>
+<tr>
+<td>
+
+**🏢 MERN Stack & AI Developer Intern** &nbsp;|&nbsp; **Heal Bharat (CareerPlus)** &nbsp;|&nbsp; `2026`
+
+- Architected & deployed a production Coaching Management System serving **500+ users**
+- Built RESTful APIs with MongoDB indexing for measurable API response time improvements
+- Integrated AI/ML models for real-time prediction + JWT/RBAC across 4 user roles
+- Enforced strict TypeScript across the full stack reducing runtime errors significantly
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🏢 Frontend Developer Intern** &nbsp;|&nbsp; **CODETECH IT Solutions** &nbsp;|&nbsp; `2025`
+
+- Built responsive accessible UI with React.js, TypeScript & Tailwind CSS
+- Integrated RESTful APIs for dynamic data rendering with seamless end-to-end flow
+- Participated in agile sprints with code reviews and on-time feature delivery
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  CERTIFICATIONS SECTION                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/──────────────────────────%20CERTIFICATIONS%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
+
+### 📜 Certifications
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/🛠%20MERN%20Stack%20Internship-Heal%20Bharat%202026-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/☁️%20AWS%20Solutions%20Architecture-Forage-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔐%20Cybersecurity-Deloitte%20Forage-86BC25?style=for-the-badge&labelColor=0d1117"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🤖%20AI%20Agents-Google%20%7C%20Kaggle-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117"/>
+
+</p>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   ACHIEVEMENTS SECTION                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/──────────────────────────%20ACHIEVEMENTS%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
+
+### 🏅 Achievements
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/🥇%201st%20Place-Mindspark%20Project%20Expo-FFD700?style=for-the-badge&labelColor=0d1117"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🇮🇳%20Selected-Smart%20India%20Hackathon%202025%20(Internal)-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/📄%20Research%20Paper-Published%20@%20IEEE%20AIC%202025-00629B?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d1117"/>
+
+</p>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS SECTION                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/──────────────────────────%20GITHUB%20STATS%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codeByBharti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeByBharti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="165"/>
 
 <br/><br/>
 
-<a href="mailto:bhartiambule156@gmail.com"><img src="https://img.shields.io/badge/-bhartiambule156%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/bharti-ambule-8b5436359" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/codeByBharti" target="_blank"><img src="https://img.shields.io/badge/-codeByBharti-181717?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/-Pune%2C%20India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=codeByBharti&style=flat-square&color=6C63FF&label=Profile+Views"/>
+<img src="https://streak-stats.demolab.com?user=codeByBharti&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA" width="500"/>
 
 </div>
 
@@ -24,336 +387,30 @@
 
 ---
 
-<br/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ACTIVITY GRAPH                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🧑‍💻 About Me
+<div align="center">
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeByBharti&bg_color=0d1117&color=A78BFA&line=6C63FF&point=FF6B6B&area=true&hide_border=true&area_color=6C63FF" width="100%"/>
 
-**Hey! I'm Bharti** — a passionate Full Stack Developer from Pune who loves shipping real products that serve real users.
-
-- 🔭 &nbsp; Building **AI-powered SaaS** products end-to-end
-- 🌱 &nbsp; Sharpening skills in **System Design & DSA**
-- 💡 &nbsp; Love working on **real-time systems & AI integrations**
-- 🏆 &nbsp; **500+ active users** served across production apps
-- 📄 &nbsp; Research paper published at **IEEE AIC 2025**
-- 🥇 &nbsp; **1st Place** — Mindspark Project Expo
-- 🎯 &nbsp; Selected for **Smart India Hackathon 2025**
-- ⚡ &nbsp; I turn complex problems into clean, scalable code
-
-<br/>
-
-> *"Don't just write code — build products that live in production, serve real users, and solve real problems."*
-
-<br clear="right"/>
+</div>
 
 ---
 
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-#### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark&perline=4"/>
-
-#### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark&perline=5"/>
-
-#### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql&theme=dark&perline=5"/>
-
-#### Tools, Auth & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode&theme=dark&perline=5"/>
-
-</div>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    PROFILE VIEWS BADGE                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<br/>
-
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![RBAC](https://img.shields.io/badge/JWT%20RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🚀 Featured Projects
-
-<br/>
-
-<div align="center">
-
-### 🤖 ResumeAI — AI-Powered Resume Generator
-
-</div>
-
-```
- AI SaaS Platform  •  ATS-Optimized Resumes  •  PDF Export  •  Premium Feature Gating
-```
-
-<table>
-<tr>
-<td>
-
-**🎯 Overview**
-> A full-stack AI SaaS platform that generates ATS-optimized resumes using Gemini API. Features multi-tenant architecture with Supabase Auth, PostgreSQL Row-Level Security, end-to-end PDF export, and a premium upgrade flow — all deployed on Vercel with CI/CD.
-
-**📌 Highlights**
-- 🤖 Gemini API with robust **fallback handling** — zero downtime on API failures
-- 🔐 Supabase Auth + PostgreSQL **Row-Level Security** for full data isolation
-- 📄 End-to-end **PDF export** via `html2canvas` + `jsPDF`
-- 💎 **Premium gating** with generation limits & upgrade flow
-
-</td>
-<td width="38%">
-
-**⚙️ Tech Used**
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
-
-<br/>
-
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge&labelColor=0d1117)](https://resume-ai-nu-two.vercel.app/)
-[![Repo](https://img.shields.io/badge/📂%20Source-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/codeByBharti/Resume-ai)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 🏫 Coaching Institute Management System
-
-</div>
-
-```
- Production Platform  •  500+ Users  •  Multi-Role Access  •  MVC Architecture
-```
-
-<table>
-<tr>
-<td>
-
-**🎯 Overview**
-> Enterprise-grade full-stack platform for managing coaching institutes. Handles 500+ student records across attendance, fees, and academics with clean MVC architecture, optimized MongoDB indexing, and zero-downtime CI/CD deployments on Vercel.
-
-**📌 Highlights**
-- 👥 **500+ student records** across attendance, fees & academics
-- 🔐 **4-role JWT RBAC** — Admin, Teacher, Student, Accountant
-- 🗄️ Optimized **MongoDB schema indexing** for reduced query latency
-- 🚀 **Zero-downtime CI/CD** pipeline on Vercel
-
-</td>
-<td width="38%">
-
-**⚙️ Tech Used**
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-<br/>
-
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge&labelColor=0d1117)](https://coaching-instistute.vercel.app/login)
-[![Repo](https://img.shields.io/badge/📂%20Source-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/healbharat/coaching_instistute)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 💬 QuickChat — Real-Time Messaging Platform
-
-</div>
-
-```
- WebSockets  •  50+ Concurrent Users  •  Instant Messaging  •  Low Latency
-```
-
-<table>
-<tr>
-<td>
-
-**🎯 Overview**
-> Production-grade real-time messaging platform built with Socket.IO and WebSockets. Engineered for scale with optimized connection pooling, JWT-secured backend, instant MongoDB message persistence, and CI/CD deployment on Render.
-
-**📌 Highlights**
-- ⚡ **Socket.IO + WebSockets** with optimized connection pooling
-- 👥 Handles **50+ concurrent users** with low-latency delivery
-- 💾 Instant **MongoDB message persistence** + stateful broadcasting
-- 🔐 **JWT authentication** with secure session handling
-
-</td>
-<td width="38%">
-
-**⚙️ Tech Used**
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-<br/>
-
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge&labelColor=0d1117)](https://chat-app3-0-evg5.vercel.app/login)
-[![Repo](https://img.shields.io/badge/📂%20Source-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/codeByBharti/ChatApp3.0)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## 💼 Experience
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Heal Bharat (CareerPlus) `2026`
-**MERN Stack & AI Developer Intern**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-- Deployed production system serving **500+ users**
-- RESTful APIs with MongoDB indexing & query optimization
-- AI/ML integration for real-time prediction
-- JWT + RBAC across **4 user roles**
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 CODETECH IT Solutions `2025`
-**Frontend Developer Intern**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-- Built accessible UI with **React + TypeScript**
-- REST API integration for real-time data rendering
-- Agile sprint cycles with on-time delivery
-- Cross-browser responsive components
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-🥇 **1st Place**
-Mindspark Project Expo
-
-</td>
-<td align="center" width="33%">
-
-🇮🇳 **Selected**
-Smart India Hackathon 2025
-
-</td>
-<td align="center" width="33%">
-
-📄 **Published**
-IEEE AIC 2025 Research Paper
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-![MERN](https://img.shields.io/badge/🛠%20MERN%20Stack%20Internship-Heal%20Bharat%202026-6C63FF?style=for-the-badge&labelColor=0d1117)
+<img src="https://komarev.com/ghpvc/?username=codeByBharti&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 &nbsp;
-![AWS](https://img.shields.io/badge/☁️%20AWS%20Solutions%20Architecture-Forage-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117)
-
-<br/>
-
-![Deloitte](https://img.shields.io/badge/🔐%20Cybersecurity-Deloitte%20Forage-86BC25?style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![Google](https://img.shields.io/badge/🤖%20AI%20Agents-Google%20Kaggle-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codeByBharti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeByBharti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="170"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=codeByBharti&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" width="480"/>
+<img src="https://img.shields.io/github/followers/codeByBharti?style=for-the-badge&logo=github&color=6C63FF&labelColor=0d1117&label=FOLLOWERS"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeByBharti&bg_color=0d1117&color=A78BFA&line=6C63FF&point=FF6B6B&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6C63FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
