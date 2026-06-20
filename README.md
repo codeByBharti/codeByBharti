@@ -22,28 +22,36 @@
 <!-- ================= BANNER ================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0C29,50:6A11CB,100:FF0080&text=Hi%20There%2C%20I'm%20Bharti%20%F0%9F%91%8B&fontColor=FFFFFF&fontSize=42&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=16" width="100%"/>
 
-<!-- ================= TYPING ANIMATION ================= -->
+<!-- ================= TYPING ANIMATION (single line, cycles through roles) ================= -->
 <a href="https://github.com/codeByBharti">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&repeat=true&width=560&height=50&lines=Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ================= VISITOR COUNTER + STATUS ================= -->
-<img src="https://komarev.com/ghpvc/?username=codeByBharti&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="profile views"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F0FF?style=for-the-badge&labelColor=0D1117" alt="status"/>
-<img src="https://img.shields.io/badge/BASED%20IN-PUNE%2C%20INDIA-FF0080?style=for-the-badge&labelColor=0D1117" alt="location"/>
+<!-- ================= VISITOR COUNTER + STATUS (own row, evenly spaced) ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codeByBharti&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F0FF?style=for-the-badge&labelColor=0D1117" alt="status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BASED%20IN-PUNE%2C%20INDIA-FF0080?style=for-the-badge&labelColor=0D1117" alt="location"/>
+</p>
 
-<br/><br/>
-
-<!-- ================= SOCIAL BADGES ================= -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharti-ambule-8b5436359/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/codeByBharti)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhartiambule156@gmail.com)
-<!-- TODO: replace # with your real Instagram profile URL -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-<!-- TODO: replace # with your real portfolio website URL -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<!-- ================= SOCIAL BADGES (own row, evenly spaced) ================= -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/bharti-ambule-8b5436359/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/codeByBharti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F0FF"/></a>
+  &nbsp;
+  <a href="mailto:bhartiambule156@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <!-- TODO: replace # with your real Instagram profile URL -->
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  &nbsp;
+  <!-- TODO: replace # with your real portfolio website URL -->
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -75,32 +83,22 @@
 <tr>
 <td width="58%" valign="top">
 
-```js
-const bharti = {
-  role: "Full Stack Developer · MERN Stack Developer",
-  location: "Pune, Maharashtra, India",
-  education: "B.E. Computer Engineering (2023 - 2027)",
+**🚀 Full Stack Developer · MERN Stack Developer**
+📍 Pune, Maharashtra, India &nbsp;|&nbsp; 🎓 B.E. Computer Engineering (2023 – 2027)
 
-  summary:
-    "Full Stack Developer with hands-on experience building " +
-    "scalable, production-ready web apps using React, Next.js, " +
-    "Node.js, Express, MongoDB, PostgreSQL & TypeScript.",
+Hands-on experience building scalable, production-ready web apps using **React, Next.js, Node.js, Express, MongoDB, PostgreSQL & TypeScript**.
 
-  currentFocus: [
-    "Real-time systems — Socket.IO & WebSockets",
-    "AI/LLM API integration — Gemini, Groq, OpenAI",
-    "JWT auth & role-based access control (RBAC)",
-    "CI/CD on Vercel & Render"
-  ],
+**🔭 Current Focus**
+- Real-time systems — Socket.IO & WebSockets
+- AI/LLM API integration — Gemini, Groq, OpenAI
+- JWT authentication & role-based access control (RBAC)
+- CI/CD deployment on Vercel & Render
 
-  shippedImpact: "Full-stack platforms serving 500+ active users " +
-    "with measurable gains in API response time & query performance",
+**📈 Impact So Far**
+Shipped full-stack platforms serving **500+ active users**, with measurable gains in API response time & database query performance.
 
-  careerGoal:
-    "Building production-grade software that solves real " +
-    "problems for real users — at scale, with clean architecture."
-};
-```
+**🎯 Career Goal**
+Building production-grade software that solves real problems for real users — at scale, with clean architecture.
 
 </td>
 <td width="42%" align="center" valign="top">
