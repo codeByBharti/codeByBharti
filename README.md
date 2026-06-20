@@ -1,416 +1,361 @@
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     HEADER / NAME BANNER                      -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!--
+  ============================================================================
+  BHARTI AMBULE — GITHUB PROFILE README
+  ============================================================================
+  SETUP CHECKLIST (read this before anything else):
+  1. Create a repo named EXACTLY "codeByBharti" (your GitHub username) if it
+     doesn't already exist — GitHub treats this repo specially and renders
+     its README.md on your profile page.
+  2. Put this file at the root of that repo as README.md.
+  3. Upload "orbit-hud.svg" into an "assets/" folder in that same repo, then
+     update the <img src="./assets/orbit-hud.svg" ...> line below to:
+     https://raw.githubusercontent.com/codeByBharti/codeByBharti/main/assets/orbit-hud.svg
+  4. Add "snake.yml" to ".github/workflows/snake.yml" in that repo to enable
+     the animated contribution-snake in the Fun Zone section.
+  5. Search this file for "TODO" comments — they mark spots for your photo,
+     real project screenshots/GIFs, portfolio link, and Instagram handle.
+  ============================================================================
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharti%20Ambule&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%7C%20MERN%20Developer%20%7C%20AI%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ================= BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0C29,50:6A11CB,100:FF0080&text=Hi%20There%2C%20I'm%20Bharti%20%F0%9F%91%8B&fontColor=FFFFFF&fontSize=42&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=16" width="100%"/>
 
-<!-- ⌨️ Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Bharti+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%A1;MERN+Stack+Engineer+%F0%9F%9B%A0%EF%B8%8F;AI+%26+SaaS+Builder+%F0%9F%A4%96;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing Animation" />
-
-<br/>
-
-<!-- 🔥 Tagline -->
-<p>
-  <img src="https://img.shields.io/badge/Building%20scalable%20products%20that%20solve%20real%20problems-%236C63FF?style=for-the-badge&labelColor=0d1117&color=6C63FF&logo=lightning&logoColor=white"/>
-</p>
-
-<!-- 🌐 Social Links -->
-<p>
-  <a href="mailto:bhartiambule156@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bhartiambule156-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/bharti-ambule-8b5436359" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bharti%20Ambule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/codeByBharti" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-codeByBharti-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=6C63FF"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117"/>
-</p>
+<!-- ================= TYPING ANIMATION ================= -->
+<a href="https://github.com/codeByBharti">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
 
 <br/>
+
+<!-- ================= VISITOR COUNTER + STATUS ================= -->
+<img src="https://komarev.com/ghpvc/?username=codeByBharti&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F0FF?style=for-the-badge&labelColor=0D1117" alt="status"/>
+<img src="https://img.shields.io/badge/BASED%20IN-PUNE%2C%20INDIA-FF0080?style=for-the-badge&labelColor=0D1117" alt="location"/>
+
+<br/><br/>
+
+<!-- ================= SOCIAL BADGES ================= -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharti-ambule-8b5436359/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/codeByBharti)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhartiambule156@gmail.com)
+<!-- TODO: replace # with your real Instagram profile URL -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+<!-- TODO: replace # with your real portfolio website URL -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:8A2BE2,100:FF0080&height=4&width=1000" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME SECTION                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<br/>
 
-<img src="https://img.shields.io/badge/──────────────────────────%20ABOUT%20ME%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
+## 🌐 The HUD — Interactive Control Center
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28"/> Who Am I?
+<div align="center">
 
-```ts
-const bharti: Developer = {
-  name       : "Bharti Shamlal Ambule",
-  role       : ["Full Stack Developer", "MERN Stack Developer", "AI Integrator"],
-  location   : "Pune, Maharashtra 🇮🇳",
-  education  : "B.E. Computer Engineering @ Ajeenkya DY Patil (2023–2027)",
-  focus      : ["SaaS Products", "Real-Time Systems", "AI/ML Integration"],
-  deployed   : "500+ active users served in production",
-  superpower : "Turning complex problems into clean, scalable code ⚡",
+<!-- Custom lightweight SVG: rotating orbit rings + a constellation of floating
+     tech-icon nodes circling a pulsing glowing core. Pure SVG/SMIL animation,
+     no JavaScript needed, so it animates natively on GitHub.
+     See SETUP step 3 above to make this render from your repo. -->
+<img src="./assets/orbit-hud.svg" width="380" alt="rotating developer HUD animation"/>
+
+<p><i>⚡ Continuous orbit motion · neon glow · zero JS overhead ⚡</i></p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:8A2BE2,100:00F0FF&height=4&width=1000" width="100%"/>
+
+<br/>
+
+## 🧬 About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```js
+const bharti = {
+  role: "Full Stack Developer · MERN Stack Developer",
+  location: "Pune, Maharashtra, India",
+  education: "B.E. Computer Engineering (2023 - 2027)",
+
+  summary:
+    "Full Stack Developer with hands-on experience building " +
+    "scalable, production-ready web apps using React, Next.js, " +
+    "Node.js, Express, MongoDB, PostgreSQL & TypeScript.",
+
+  currentFocus: [
+    "Real-time systems — Socket.IO & WebSockets",
+    "AI/LLM API integration — Gemini, Groq, OpenAI",
+    "JWT auth & role-based access control (RBAC)",
+    "CI/CD on Vercel & Render"
+  ],
+
+  shippedImpact: "Full-stack platforms serving 500+ active users " +
+    "with measurable gains in API response time & query performance",
+
+  careerGoal:
+    "Building production-grade software that solves real " +
+    "problems for real users — at scale, with clean architecture."
 };
 ```
 
-<br/>
+</td>
+<td width="42%" align="center" valign="top">
 
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK SECTION                       -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/──────────────────────────%20TECH%20STACK%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-<br/>
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<br/>
-
-### ⚙️ Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<br/>
-
-### 🤖 AI / Auth / DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=auth0&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/RBAC-FF6B6B?style=for-the-badge&logo=shield&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     TOP 3 PROJECTS                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/──────────────────────────%20FEATURED%20PROJECTS%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
-
-### 🏆 Top Projects
-
-<br/>
-
-<!-- Project 1 -->
-<table>
-<tr>
-<td width="100%">
-
-### 🤖 [ResumeAI — AI-Powered Resume Generator (SaaS)](https://github.com/codeByBharti/Resume-ai)
-
-> *Generate ATS-optimized resumes in seconds using AI — a fully deployed SaaS product*
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jsPDF-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
-</p>
-
-✅ **AI resume generation** with Gemini API + robust fallback handling for zero downtime  
-✅ **Supabase Auth** + PostgreSQL with Row-Level Security for complete multi-tenant data isolation  
-✅ **PDF export** end-to-end using `html2canvas` + `jsPDF` with premium feature gating  
-✅ **Upgrade flow** with generation limits, session management & CI/CD on Vercel  
-
-<p>
-  <a href="https://resume-ai-nu-two.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge"/></a>
-  &nbsp;
-  <a href="https://github.com/codeByBharti/Resume-ai"><img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
-</p>
+<!-- TODO: replace this placeholder with your own profile photo or a coding GIF -->
+<img src="https://placehold.co/420x420/0D1117/00F0FF?text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" width="100%"/>
 
 </td>
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:2979FF,100:8A2BE2&height=3&width=1000" width="100%"/>
+
 <br/>
 
-<!-- Project 2 -->
+## ⚙️ Tech Arsenal
+
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00F0FF)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**🛠️ Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00F0FF)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-8A2BE2?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF0080?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**🗄️ Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=00F0FF)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**☁️ Cloud & DevOps**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-8A2BE2?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**🤖 AI, Auth & Tools**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-00F0FF?style=for-the-badge&logo=openai&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8A2BE2?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20LLaMA%203.3-FF0080?style=for-the-badge&logo=lightning&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00F0FF)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:FF0080,100:00F0FF&height=3&width=1000" width="100%"/>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<!-- ======================= PROJECT 1 ======================= -->
+### 🧠 ResumeAI — AI-Powered Resume Generator (SaaS)
+
 <table>
 <tr>
-<td width="100%">
+<td width="45%" valign="top">
 
-### 🏫 [Coaching Institute Management System](https://github.com/healbharat/coaching_instistute)
+<!-- TODO: replace with a real screenshot/GIF, e.g. assets/resumeai-demo.gif -->
+<img src="https://placehold.co/600x360/0D1117/00F0FF?text=ResumeAI+Demo" width="100%"/>
 
-> *Production-grade platform managing 500+ student records with multi-role access control*
+</td>
+<td width="55%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
+A full-stack AI SaaS platform that generates ATS-optimized resumes, with secure multi-tenant storage and a polished export pipeline.
 
-✅ **500+ student records** managed across attendance, fees & academics with MVC architecture  
-✅ **Multi-role JWT RBAC** — Admin, Teacher, Student, Accountant with encrypted endpoints  
-✅ **Optimized MongoDB schema** with indexing for reduced query latency under concurrent load  
-✅ **Zero-downtime CI/CD** deployment pipeline on Vercel for real-world production reliability  
+**Key Features**
+- 🤖 Gemini-powered resume generation with robust fallback handling for zero interruption
+- 🔐 Supabase Auth + PostgreSQL Row-Level Security for complete data isolation
+- 📄 End-to-end PDF export via html2canvas + jsPDF
+- 💎 Premium feature gating with generation limits & upgrade flow
 
-<p>
-  <a href="https://coaching-instistute.vercel.app/login"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge"/></a>
-  &nbsp;
-  <a href="https://github.com/healbharat/coaching_instistute"><img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
-</p>
+**Tech Stack**
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Gemini API` `Vercel`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://resume-ai-nu-two.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeByBharti/Resume-ai)
 
 </td>
 </tr>
 </table>
 
-<br/>
+<!-- ======================= PROJECT 2 ======================= -->
+### 🎓 Coaching Institute Management System
 
-<!-- Project 3 -->
 <table>
 <tr>
-<td width="100%">
+<td width="45%" valign="top">
 
-### 💬 [QuickChat — Real-Time Messaging Platform](https://github.com/codeByBharti/ChatApp3.0)
+<!-- TODO: replace with a real screenshot/GIF -->
+<img src="https://placehold.co/600x360/0D1117/8A2BE2?text=Coaching+Management+System" width="100%"/>
 
-> *Production-grade real-time chat handling 50+ concurrent users with low-latency WebSockets*
+</td>
+<td width="55%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-</p>
+A production-grade full-stack platform managing 500+ student records across attendance, fees, and academics, with secure multi-role access.
 
-✅ **50+ concurrent users** with Socket.IO WebSockets & optimized connection pooling  
-✅ **Scalable Node.js backend** with JWT auth + instant MongoDB message persistence  
-✅ **Stateful real-time broadcasting** for seamless, zero-lag messaging experience  
-✅ **CI/CD on Render** maintaining stable uptime & consistent performance under load  
+**Key Features**
+- 👥 Multi-role JWT access control across Admin, Teacher, Student & Accountant
+- 🏗️ Clean MVC architecture with optimized MongoDB schema indexing
+- 🔒 Encrypted endpoint protection & secure session handling
+- ⚡ Zero-downtime CI/CD on Vercel, reliable under real concurrent load for 500+ users
 
-<p>
-  <a href="https://chat-app3-0-evg5.vercel.app/login"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-6C63FF?style=for-the-badge"/></a>
-  &nbsp;
-  <a href="https://github.com/codeByBharti/ChatApp3.0"><img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
-</p>
+**Tech Stack**
+`React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS` `Vercel`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://coaching-instistute.vercel.app/login)
+[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/healbharat/coaching_instistute)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   EXPERIENCE SECTION                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/──────────────────────────%20EXPERIENCE%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
-
-### 💼 Work Experience
+<!-- ======================= PROJECT 3 ======================= -->
+### 💰 SalaryCoach — AI-Powered Salary Negotiation Platform
 
 <table>
 <tr>
-<td>
+<td width="45%" valign="top">
 
-**🏢 MERN Stack & AI Developer Intern** &nbsp;|&nbsp; **Heal Bharat (CareerPlus)** &nbsp;|&nbsp; `2026`
-
-- Architected & deployed a production Coaching Management System serving **500+ users**
-- Built RESTful APIs with MongoDB indexing for measurable API response time improvements
-- Integrated AI/ML models for real-time prediction + JWT/RBAC across 4 user roles
-- Enforced strict TypeScript across the full stack reducing runtime errors significantly
+<!-- TODO: replace with a real screenshot/GIF -->
+<img src="https://placehold.co/600x360/0D1117/FF0080?text=SalaryCoach+Demo" width="100%"/>
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="55%" valign="top">
 
-**🏢 Frontend Developer Intern** &nbsp;|&nbsp; **CODETECH IT Solutions** &nbsp;|&nbsp; `2025`
+A full-stack MERN application generating personalized salary benchmarks and negotiation scripts powered by Groq's LLaMA 3.3 70B model.
 
-- Built responsive accessible UI with React.js, TypeScript & Tailwind CSS
-- Integrated RESTful APIs for dynamic data rendering with seamless end-to-end flow
-- Participated in agile sprints with code reviews and on-time feature delivery
+**Key Features**
+- 📊 MongoDB-backed benchmarking engine with rolling-average aggregation by role, city & experience
+- 🧩 Structured JSON-output prompt engineering for reliable LLM responses
+- 🛡️ Multi-layer JSON-sanitization pipeline to handle malformed LLM output
+- 🌐 Decoupled architecture — React on Vercel, Express on Render — with rate-limiting
+
+**Tech Stack**
+`React.js` `Node.js` `Express.js` `MongoDB` `Groq API` `Tailwind CSS` `Vercel` `Render`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](https://salary-coach.vercel.app/auth)
+[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeByBharti/salary-coach)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  CERTIFICATIONS SECTION                       -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/──────────────────────────%20CERTIFICATIONS%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
-
-### 📜 Certifications
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/🛠%20MERN%20Stack%20Internship-Heal%20Bharat%202026-6C63FF?style=for-the-badge&labelColor=0d1117"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/☁️%20AWS%20Solutions%20Architecture-Forage-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🔐%20Cybersecurity-Deloitte%20Forage-86BC25?style=for-the-badge&labelColor=0d1117"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🤖%20AI%20Agents-Google%20%7C%20Kaggle-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117"/>
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF0080,100:8A2BE2&height=4&width=1000" width="100%"/>
 
 <br/>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   ACHIEVEMENTS SECTION                        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/──────────────────────────%20ACHIEVEMENTS%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
-
-### 🏅 Achievements
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/🥇%201st%20Place-Mindspark%20Project%20Expo-FFD700?style=for-the-badge&labelColor=0d1117"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🇮🇳%20Selected-Smart%20India%20Hackathon%202025%20(Internal)-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/📄%20Research%20Paper-Published%20@%20IEEE%20AIC%202025-00629B?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d1117"/>
-
-</p>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS SECTION                       -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/──────────────────────────%20GITHUB%20STATS%20──────────────────────────-%236C63FF?style=flat-square&labelColor=0d1117&color=0d1117" width="100%"/>
-
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codeByBharti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeByBharti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codeByBharti&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF0080&text_color=C9D1D9&ring_color=8A2BE2" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeByBharti&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF0080&currStreakLabel=00F0FF" width="49%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=codeByBharti&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeByBharti&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeByBharti&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=FF0080&point=FFFFFF" width="49%"/>
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:00F0FF,100:FF0080&height=3&width=1000" width="100%"/>
+
+<br/>
+
+## 🏆 Achievement Zone
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=codeByBharti&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
 <br/>
 
----
+🥇 **1st Place** — Mindspark Project Expo
+🚀 **Selected** — Smart India Hackathon (SIH) 2025, Internal Round
+📄 **Research Paper Published** — IEEE AIC 2025
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY GRAPH                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+**📜 Certifications**
+
+| Certification | Issuer |
+|---|---|
+| MERN Stack Internship | Heal Bharat (2026) |
+| AWS Solutions Architecture | Forage |
+| Cybersecurity | Deloitte (Forage) |
+| AI Agents | Google (Kaggle) |
+| Hackathon Certification | Kaggle |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:8A2BE2,100:00F0FF&height=4&width=1000" width="100%"/>
+
+<br/>
+
+## 🎮 Fun Zone
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeByBharti&bg_color=0d1117&color=A78BFA&line=6C63FF&point=FF6B6B&area=true&hide_border=true&area_color=6C63FF" width="100%"/>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    PROFILE VIEWS BADGE                        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=codeByBharti&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/codeByBharti?style=for-the-badge&logo=github&color=6C63FF&labelColor=0d1117&label=FOLLOWERS"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<details>
+<summary>😂 Click to reveal a random developer joke</summary>
+<br/>
+
+> Why do programmers prefer dark mode? Because light attracts bugs.
+
+> I would tell you a UDP joke, but you might not get it.
+
+> There are 10 types of people: those who understand binary, and those who don't.
+
+<!-- TODO: for true randomness, wire this section to a scheduled GitHub Action
+     that swaps the joke text on each run (e.g. abhisuresh07/random-jokes-action) -->
+</details>
+
+<br/>
+
+<!-- Animated snake eating your contribution graph.
+     Requires snake.yml in .github/workflows/ — see SETUP step 4 at the top. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeByBharti/codeByBharti/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake contribution animation" src="https://raw.githubusercontent.com/codeByBharti/codeByBharti/output/github-contribution-grid-snake.svg" width="80%"/>
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:8A2BE2,100:FF0080&height=4&width=1000" width="100%"/>
+
+<br/>
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharti-ambule-8b5436359/)
+<!-- TODO: add your real portfolio link -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhartiambule156@gmail.com)
+<!-- TODO: add your real Instagram handle -->
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF0080,50:8A2BE2,100:0F2027&section=footer&animation=twinkling" width="100%"/>
+
+<i>⭐ From <a href="https://github.com/codeByBharti">@codeByBharti</a> — thanks for stopping by!</i>
 
 </div>
